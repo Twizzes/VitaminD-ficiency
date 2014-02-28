@@ -1,1 +1,2 @@
-this is a test of changing the .txt file
+
+I added this line and removed the previous line
