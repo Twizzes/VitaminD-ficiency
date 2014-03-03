@@ -15,3 +15,11 @@ Thursday: Unavaliable
 Friday: After 4
 Saturday: Before 3
 Sunday: After 2
+
+Sam's Availability:
+Saturday
+Sunday
+Thursday
+Monday 1pm-open
+Tuesday open-4pm
+Wednesday 1pm-class
