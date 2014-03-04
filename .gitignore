@@ -215,3 +215,5 @@ pip-log.txt
 .mr.developer.cfg
 *.o
 Project-CodeBlocks.layout
+*.depend
+*.layout
